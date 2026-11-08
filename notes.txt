@@ -1,1 +1,2 @@
 i'm learnig git
+I made my first github
